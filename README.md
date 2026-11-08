@@ -86,8 +86,8 @@ python-backend-prep/
 | File | Status |
 |---|---|
 | `oop_solid_dry_kiss_yagni.py` | ⬜ not started |
-| `design_patterns_creational.py` | ⬜ not started |
-| `design_patterns_structural.py` | ⬜ not started |
+| `design_patterns_creational.py` | ✅ done |
+| `design_patterns_structural.py` | ✅ done |
 | `design_patterns_behavioral.py` | ⬜ not started |
 | `code_smells_refactoring.py` | ⬜ not started |
 | `tdd_bdd_ddd.md` | ⬜ not started |
