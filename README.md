@@ -85,7 +85,7 @@ python-backend-prep/
 ### 01 · Software Engineering
 | File | Status |
 |---|---|
-| `oop_solid_dry_kiss_yagni.py` | ⬜ not started |
+| `oop_solid_dry_kiss_yagni.py` | ✅ not started |
 | `design_patterns_creational.py` | ✅ done |
 | `design_patterns_structural.py` | ✅ done |
 | `design_patterns_behavioral.py` | ⬜ not started |
